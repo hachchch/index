@@ -1,3 +1,4 @@
+this.game.load.atlas('mysprite', 'assets/sprites.png', 'assets/sprites.json');
 
 game1001140149.png
 size: 2048, 2048
