@@ -17,14 +17,14 @@ TileSets/FantasyHex/Units/Warrior-attack-2
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
-  index: -1
+  index: -2
 TileSets/FantasyHex/Units/Warrior-attack-3
   rotate: false
   xy: 556, 976
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
-  index: -1
+  index: -3
 TileSets/FantasyHex/Tiles/Mountain2
   rotate: false
   xy: 716, 593
