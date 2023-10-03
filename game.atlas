@@ -6,11 +6,11 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/Warrior-attack-1
   rotate: false
-  xy: 20, 5
-  size: 12, 23
-  orig: 12, 23
+  xy: 0, 0
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
-  index: -1
+  index: 1
 
 game2020.png
 size: 2048, 2048
@@ -19,8 +19,8 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/Warrior-attack-2
   rotate: false
-  xy: 20, 5
-  size: 12, 23
-  orig: 12, 23
+  xy: 0, 0
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
-  index: -1
+  index: 2
