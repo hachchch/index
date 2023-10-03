@@ -6,9 +6,9 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/Warrior-attack-1
   rotate: false
-  xy: 32, 28
-  size: 32, 28
-  orig: 32, 28
+  xy: 20, 5
+  size: 12, 23
+  orig: 12, 23
   offset: 0, 0
   index: -1
 
@@ -19,8 +19,8 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/Warrior-attack-2
   rotate: false
-  xy: 32, 28
-  size: 32, 28
-  orig: 32, 28
+  xy: 20, 5
+  size: 12, 23
+  orig: 12, 23
   offset: 0, 0
   index: -1
