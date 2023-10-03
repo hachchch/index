@@ -1,6 +1,6 @@
 
 game1010.png
-size: 32, 28
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -13,7 +13,7 @@ TileSets/FantasyHex/Units/Warrior-attack-1
   index: -1
 
 game2020.png
-size: 32, 28
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
