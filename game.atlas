@@ -1,10 +1,30 @@
-this.game.load.atlas('mysprite', 'assets/sprites.png', 'assets/sprites.json');
 
 game1001140149.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TileSets/FantasyHex/Units/Warrior-attack-1
+  rotate: false
+  xy: 716, 593
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-attack-2
+  rotate: false
+  xy: 666, 595
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-attack-3
+  rotate: false
+  xy: 556, 976
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Mountain2
   rotate: false
   xy: 716, 593
