@@ -1,139 +1,25 @@
 
-game1001140149.png
-size: 2048, 2048
+game1010.png
+size: 32, 28
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/Warrior-attack-1
   rotate: false
-  xy: 716, 593
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Warrior-attack-2
-  rotate: false
-  xy: 666, 595
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -2
-TileSets/FantasyHex/Units/Warrior-attack-3
-  rotate: false
-  xy: 556, 976
-  size: 32, 31
-  orig: 32, 31
-  offset: 0, 0
-  index: -3
-TileSets/FantasyHex/Tiles/Mountain2
-  rotate: false
-  xy: 716, 593
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Mountain3
-  rotate: false
-  xy: 666, 595
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/GrasslandForest2
-  rotate: false
-  xy: 556, 976
-  size: 32, 31
-  orig: 32, 31
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/PlainsForest
-  rotate: false
-  xy: 792, 880
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: 0
-TileSets/FantasyHex/Tiles/PlainsForest
-  rotate: false
-  xy: 828, 880
-  size: 32, 32
-  orig: 32, 32
+  xy: 0, 0
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: 1
-TileSets/FantasyHex/Tiles/Plains+Forest+Lumber mill2
+game2020.png
+size: 32, 28
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Units/Warrior-attack-2
   rotate: false
-  xy: 792, 916
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Plains+Forest+Lumber mill3
-  rotate: false
-  xy: 828, 916
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Plains2
-  rotate: false
-  xy: 756, 1000
+  xy: 0, 0
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Grassland2
-  rotate: false
-  xy: 596, 1208
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Desert2
-  rotate: false
-  xy: 476, 990
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Hill2
-  rotate: false
-  xy: 556, 717
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Ice2
-  rotate: false
-  xy: 676, 1208
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Snow2
-  rotate: false
-  xy: 876, 847
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Tundra2
-  rotate: false
-  xy: 552, 465
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Wheat2
-  rotate: false
-  xy: 916, 973
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Worker2
-  rotate: false
-  xy: 916, 865
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
+  index: 2
